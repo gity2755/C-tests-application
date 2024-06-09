@@ -1,0 +1,22 @@
+D:\גיטי לימודים\C#\Test Project\TESTBL\bin\Debug\TESTBL.dll.config
+D:\גיטי לימודים\C#\Test Project\TESTBL\bin\Debug\TESTBL.dll
+D:\גיטי לימודים\C#\Test Project\TESTBL\bin\Debug\TESTBL.pdb
+D:\גיטי לימודים\C#\Test Project\TESTBL\bin\Debug\EntityFramework.dll
+D:\גיטי לימודים\C#\Test Project\TESTBL\bin\Debug\EntityFramework.SqlServer.dll
+D:\גיטי לימודים\C#\Test Project\TESTBL\bin\Debug\EntityFramework.xml
+D:\גיטי לימודים\C#\Test Project\TESTBL\bin\Debug\EntityFramework.SqlServer.xml
+D:\גיטי לימודים\C#\Test Project\TESTBL\obj\Debug\TESTBL.csprojAssemblyReference.cache
+D:\גיטי לימודים\C#\Test Project\TESTBL\obj\Debug\TESTBL.csproj.CopyComplete
+D:\גיטי לימודים\C#\Test Project\TESTBL\obj\Debug\TESTBL.dll
+D:\גיטי לימודים\C#\Test Project\TESTBL\obj\Debug\TESTBL.pdb
+D:\Gitty_learning\C#\Test Project\TESTBL\bin\Debug\TESTBL.dll.config
+D:\Gitty_learning\C#\Test Project\TESTBL\bin\Debug\TESTBL.dll
+D:\Gitty_learning\C#\Test Project\TESTBL\bin\Debug\TESTBL.pdb
+D:\Gitty_learning\C#\Test Project\TESTBL\bin\Debug\EntityFramework.dll
+D:\Gitty_learning\C#\Test Project\TESTBL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gitty_learning\C#\Test Project\TESTBL\bin\Debug\EntityFramework.xml
+D:\Gitty_learning\C#\Test Project\TESTBL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gitty_learning\C#\Test Project\TESTBL\obj\Debug\TESTBL.csprojAssemblyReference.cache
+D:\Gitty_learning\C#\Test Project\TESTBL\obj\Debug\TESTBL.csproj.CopyComplete
+D:\Gitty_learning\C#\Test Project\TESTBL\obj\Debug\TESTBL.dll
+D:\Gitty_learning\C#\Test Project\TESTBL\obj\Debug\TESTBL.pdb
